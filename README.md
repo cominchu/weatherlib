@@ -11,5 +11,6 @@ result = weatherlib.get_precipitation(location='tokyo')
 ## License
 This software is released under the MIT License, see LICENSE.
 
+
 ## Authors
 devara
